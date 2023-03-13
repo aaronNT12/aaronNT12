@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning SQL, Haskell & Oracle  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: Sometimes I get lost where I write :V 
   
 
 <br/>  
