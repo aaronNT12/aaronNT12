@@ -6,12 +6,8 @@
 ### <div align="center">I´m Aaron a self-taught programer</div>  
   
 
-- 🌱 I’m currently learning SQL, Haskell & Oracle  
-  
-
-- ⚡ Fun fact: Sometimes I get lost where I write :V 
-  
-
+- 🌱 I’m currently learning SQL, Haskell & Python.  
+    
 <br/>  
 
 
