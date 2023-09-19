@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I´m Aaron a self-taught programer</div>  
+### <div align="center">I´m Aaron a self-taught programer & student </div>  
   
 
-- 🌱 I’m currently learning SQL, Haskell & Python.  
+- 🌱 I’m currently learning SQL, Haskell & Python; I´m currently studing a Network Systems Administration vocational training.  
     
 <br/>  
 
