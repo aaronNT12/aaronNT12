@@ -7,7 +7,7 @@
   
 
 -  I’m currently learning SQL, C & Python.
--   I´m currently studing a Network Systems Administration vocational training.  
+-  I try to learn and improve day by day  
     
 <br/>  
 
