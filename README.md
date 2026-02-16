@@ -6,7 +6,7 @@
 ### <div align="center">I´m Aaron a microcomputer systems and network technician. </div>  
   
 
--  I’m currently learning SQL, C & Python.
+-  I’m currently learning SQL, Bash & COBOL.
 -  I try to learn and improve day by day  
     
 <br/>  
