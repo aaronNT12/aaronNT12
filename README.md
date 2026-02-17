@@ -14,10 +14,11 @@
 
 ### Mainframe & Backend  
 <div align="center">  
-<a href="https://gnucobol.sourceforge.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=23264&format=png" alt="COBOL" height="50" /></a>  
+<a href="https://gnucobol.sourceforge.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/100/000000/code-file.png" alt="COBOL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.ibm.com/docs/en/zos" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=23263&format=png" alt="JCL" height="50" /></a>  
+<a href="https://www.ibm.com/docs/en/zos" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/100/000000/console.png" alt="JCL" height="50" /></a>  
 </div>
+
 
 </td><td valign="top" width="33%">
 
