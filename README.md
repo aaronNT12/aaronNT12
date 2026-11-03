@@ -63,9 +63,9 @@
 <br/>
 
 ## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronNT12&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronNT12&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
 
 
 
