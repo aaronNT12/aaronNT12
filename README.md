@@ -2,10 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I’m Aaron, a Microcomputer Systems and Network Technician.</div>  
+### <div align="center">Hi, I'm Aarón — Backend & Mainframe Developer (Java / COBOL)</div>
 
-- I’m currently focused on learning COBOL, SQL, JCL and mainframe fundamentals.  
-- I enjoy building practical projects and improving my skills day by day.  
+- 💻 **Current Focus:** Specializing in corporate backend development, relational databases, and traditional mainframe environments.
+- ⚡ **Core Stack:** Java, COBOL, PostgreSQL, and system automation via PowerShell.
+- 🔌 **Dual VET in Parallel:** Balancing software development with a qualification in Electricity, bringing a solid technical foundation and strong problem-solving skills.
+- 🎯 **Goal:** Transitioning into the corporate and banking sector, delivering stability, order, and technical rigor.
 
 <br/>
 
