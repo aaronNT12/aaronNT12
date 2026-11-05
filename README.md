@@ -5,7 +5,7 @@
 ### <div align="center">Hi, I'm Aarón — Backend & Mainframe Developer (Java / COBOL)</div>
 
 - 💻 **Current Focus:** Specializing in corporate backend development, relational databases, and traditional mainframe environments.
-- ⚡ **Core Stack:** Java, COBOL, PostgreSQL, and system automation via PowerShell.
+- ⚡ **Core Stack:** Java, COBOL, PostgreSQL, and system automation via PowerShell and Bash.
 - 🔌 **Dual VET in Parallel:** Balancing software development with a qualification in Electricity, bringing a solid technical foundation and strong problem-solving skills.
 - 🎯 **Goal:** Transitioning into the corporate and banking sector, delivering stability, order, and technical rigor.
 
